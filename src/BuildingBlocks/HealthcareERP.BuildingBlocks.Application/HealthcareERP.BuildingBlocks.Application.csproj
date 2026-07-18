@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\HealthcareERP.BuildingBlocks.Domain\HealthcareERP.BuildingBlocks.Domain.csproj" />
+    <ProjectReference Include="..\HealthcareERP.BuildingBlocks.Contracts\HealthcareERP.BuildingBlocks.Contracts.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

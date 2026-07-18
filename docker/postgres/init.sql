@@ -1,0 +1,5 @@
+CREATE DATABASE healthcare_erp_hms;
+CREATE DATABASE healthcare_erp_hris;
+CREATE DATABASE healthcare_erp_financials;
+CREATE DATABASE healthcare_erp_inventory;
+CREATE DATABASE healthcare_erp_procurement;
